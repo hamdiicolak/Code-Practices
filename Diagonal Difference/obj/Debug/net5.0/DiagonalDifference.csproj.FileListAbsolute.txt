@@ -1,0 +1,32 @@
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.exe
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.deps.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\DiagonalDifference.exe
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\DiagonalDifference.deps.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\bin\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Diagonal Difference\obj\Debug\net5.0\DiagonalDifference.genruntimeconfig.cache
