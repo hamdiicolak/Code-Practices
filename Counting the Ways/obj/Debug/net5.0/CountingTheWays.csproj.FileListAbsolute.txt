@@ -1,0 +1,16 @@
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\CountingTheWays.exe
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\CountingTheWays.deps.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\CountingTheWays.runtimeconfig.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\CountingTheWays.runtimeconfig.dev.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\CountingTheWays.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\ref\CountingTheWays.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\bin\Debug\net5.0\CountingTheWays.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.AssemblyInfoInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.AssemblyInfo.cs
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\ref\CountingTheWays.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\CountingTheWays\obj\Debug\net5.0\CountingTheWays.genruntimeconfig.cache
