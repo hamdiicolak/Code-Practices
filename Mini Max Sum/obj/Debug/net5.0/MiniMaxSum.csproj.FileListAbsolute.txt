@@ -1,0 +1,16 @@
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.exe
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.deps.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.runtimeconfig.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.runtimeconfig.dev.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\ref\MiniMaxSum.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.AssemblyInfo.cs
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\ref\MiniMaxSum.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.genruntimeconfig.cache
