@@ -1,0 +1,16 @@
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\RemoveIslands.exe
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\RemoveIslands.deps.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\RemoveIslands.runtimeconfig.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\RemoveIslands.runtimeconfig.dev.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\RemoveIslands.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\ref\RemoveIslands.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\bin\Debug\net5.0\RemoveIslands.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.AssemblyInfoInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.AssemblyInfo.cs
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\ref\RemoveIslands.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\RemoveIslands\obj\Debug\net5.0\RemoveIslands.genruntimeconfig.cache
