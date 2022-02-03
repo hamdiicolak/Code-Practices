@@ -14,3 +14,19 @@ C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\SherlockAndMiniMax\o
 C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\SherlockAndMiniMax\obj\Debug\net5.0\ref\SherlockAndMiniMax.dll
 C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\SherlockAndMiniMax\obj\Debug\net5.0\SherlockAndMiniMax.pdb
 C:\Users\hamdi.colak\Desktop\VS Code Workstation\HackerRank\SherlockAndMiniMax\obj\Debug\net5.0\SherlockAndMiniMax.genruntimeconfig.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\SherlockAndMiniMax.exe
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\SherlockAndMiniMax.deps.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\SherlockAndMiniMax.runtimeconfig.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\SherlockAndMiniMax.runtimeconfig.dev.json
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\SherlockAndMiniMax.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\ref\SherlockAndMiniMax.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\bin\Debug\net5.0\SherlockAndMiniMax.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.AssemblyInfoInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.AssemblyInfo.cs
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\ref\SherlockAndMiniMax.dll
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.pdb
+C:\Users\hamdi.colak\Desktop\VS Code Workstation\Code Practices\Sherlock and mini max\obj\Debug\net5.0\SherlockAndMiniMax.genruntimeconfig.cache

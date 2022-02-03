@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code Practices\\Sherlock and mini max\\SherlockAndMiniMax.csproj": {}
+    "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code practices\\Climbing the Leaderboard\\Climbing the Leaderboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code Practices\\Sherlock and mini max\\SherlockAndMiniMax.csproj": {
+    "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code practices\\Climbing the Leaderboard\\Climbing the Leaderboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code Practices\\Sherlock and mini max\\SherlockAndMiniMax.csproj",
-        "projectName": "SherlockAndMiniMax",
-        "projectPath": "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code Practices\\Sherlock and mini max\\SherlockAndMiniMax.csproj",
+        "projectUniqueName": "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code practices\\Climbing the Leaderboard\\Climbing the Leaderboard.csproj",
+        "projectName": "Climbing the Leaderboard",
+        "projectPath": "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code practices\\Climbing the Leaderboard\\Climbing the Leaderboard.csproj",
         "packagesPath": "C:\\Users\\hamdi.colak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code Practices\\Sherlock and mini max\\obj\\",
+        "outputPath": "C:\\Users\\hamdi.colak\\Desktop\\VS Code Workstation\\Code practices\\Climbing the Leaderboard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
